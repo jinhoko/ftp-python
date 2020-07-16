@@ -3,6 +3,8 @@ FTP Server/Client Implementation in Python 3
 
 ### Requirements
 - Python 3.6 or higher
+- Unix-based OS
+-	(Externally) Opened port for TCP connection
 
 ### ftp_client.py
 ```
