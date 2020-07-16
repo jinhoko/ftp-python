@@ -1,10 +1,6 @@
 # ftp-python
 FTP Server/Client Implementation in Python 3
 
-TERM PROJECT FOR POSTECH CSED353 SPRING 2020
-ALL FILES IMPLEMENTED BY JINHO KO (jinho.ko@postech.ac.kr)
-DISTRIBUTION OR COMMERCIAL USE ONLY AVAILABLE UPON APPROVAL OF THE AUTHOR.
-
 ### Requirements
 - Python 3.6 or higher
 
@@ -31,3 +27,8 @@ python3 ftp_server.py [PORT:optional (default 2022)]
 
 ### Authentication
 - default ID,PW = (admin, adminpw)
+
+### License
+TERM PROJECT FOR POSTECH CSED353 SPRING 2020
+ALL FILES IMPLEMENTED BY JINHO KO (jinho.ko@postech.ac.kr)
+DISTRIBUTION OR COMMERCIAL USE ONLY AVAILABLE UPON APPROVAL OF THE AUTHOR.
