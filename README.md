@@ -29,7 +29,6 @@ python3 ftp_server.py [PORT:optional (default 2022)]
 - default ID,PW = (admin, adminpw)
 
 ### License
-TERM PROJECT FOR POSTECH CSED353 SPRING 2020  
-ALL FILES IMPLEMENTED BY JINHO KO (jinho.ko@postech.ac.kr)  
-PERSONAL AND UPGRADE REQUESTS ARE ALWAYS WELCOME.  
-DISTRIBUTION OR COMMERCIAL USE ONLY AVAILABLE UPON APPROVAL OF THE AUTHOR.
+All files implemented by Jinho Ko (jinho.ko@postech.ac.kr)  
+Personal use and upgraded commit requests are always welcome.
+Distribution or commercial use only available upon approval of the author.
