@@ -30,6 +30,10 @@ python3 ftp_server.py [PORT:optional (default 2022)]
 ### Authentication
 - default ID,PW = (admin, adminpw)
 
+### Performance
+- Client-side up/down speed is similar with original ftp.
+- Server-side multi user transmission speed is similar with original ftp.
+
 ### License
 All files implemented by Jinho Ko (jinho.ko@postech.ac.kr)  
 Personal use and upgraded commit requests are always welcome.  
