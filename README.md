@@ -30,5 +30,5 @@ python3 ftp_server.py [PORT:optional (default 2022)]
 
 ### License
 All files implemented by Jinho Ko (jinho.ko@postech.ac.kr)  
-Personal use and upgraded commit requests are always welcome.
+Personal use and upgraded commit requests are always welcome.  
 Distribution or commercial use only available upon approval of the author.
