@@ -17,14 +17,14 @@ python3 ftp_server.py [PORT:optional (default 2022)]
 ```
 
 ### Available client arguments
-- cd <rem-dir>
-- lcd <loc-dir>
+- cd <rem_dir>
+- lcd <loc_dir>
 - pwd
 - lpwd
-- ls [<rem-dir>]
-- lls [<loc-dir>]
-- get <rem-filepath> [<loc-dir>]
-- put <loc-filepath> [<rem_dir>]
+- ls [<rem_dir>]
+- lls [<loc_dir>]
+- get <rem_filepath> [<loc_dir>]
+- put <loc_filepath> [<rem_dir>]
 - exit
 
 ### Authentication
